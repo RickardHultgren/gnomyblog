@@ -3,7 +3,7 @@ title: "Gnomy Blog"
 description: "Implementation of the Gnomy Framework"
 author: "Rickard Hultgren"
 #email: "contact@ActCalc.dev"
-baseurl: "/ActCalc-blog"
+baseurl: "/gnomyblog"
 url: "https://rickardhultgren.github.io"
 theme: minima
 
