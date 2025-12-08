@@ -1,3 +1,3 @@
-# ActCalc-blog
-ActCalc Blog - SOP Solutions &amp; Process Automation
-https://rickardhultgren.github.io/actcalc-blog/
+# Gnomy Blog
+Gnomy Blog - The implementation of the Gnomy Framework
+https://rickardhultgren.github.io/gnomyblog/
