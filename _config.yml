@@ -1,6 +1,6 @@
 # _config.yml
-title: "ActCalc Blog"
-description: "Exploring Standard Operating Procedures, Process Automation, and the Future of Workflow Management"
+title: "Gnomy Blog"
+description: "Implementation of the Gnomy Framework"
 author: "Rickard Hultgren"
 #email: "contact@ActCalc.dev"
 baseurl: "/ActCalc-blog"
